@@ -10,7 +10,7 @@ object recognition, and scene understanding.
 
 Traffic Image Segmentation Project by:
 
-Kashish Aggarwal
-Anushka Gupta
-Mahua Singh
+Kashish Aggarwal, 
+Anushka Gupta, 
+Mahua Singh, 
 Mahek Choudhary
